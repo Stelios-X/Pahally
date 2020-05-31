@@ -6,7 +6,7 @@ namespace Pahally.Models
     public class Order
     {
         /// <summary>
-        /// Complete information on all orders made
+        /// Complete information on all orders made here
         /// </summary>
         public int Id { get; set; }
         public DateTime OrderPlaced { get; set; }
